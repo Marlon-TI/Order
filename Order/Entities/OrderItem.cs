@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Order.Entities;
 
 namespace Order.Entities
 {
@@ -8,6 +9,7 @@ namespace Order.Entities
     {
         public int Quantity { get; set; }
         public double Price { get; set; }
+        
 
         public OrderItem()
         {
