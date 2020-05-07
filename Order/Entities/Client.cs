@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Order.Entities
+namespace OrderP.Entities
 {
     class Client
     {
